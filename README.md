@@ -2,6 +2,9 @@
 
 The Prompt BARは、日本語で書いたイメージを画像生成用の英語プロンプトへ変換するWindows向けツールです。
 
+<img width="452" height="418" alt="image" src="https://github.com/user-attachments/assets/9374b675-5680-4403-9d14-580e3e316e58" />
+
+
 LM Studioと連携し、以下の形式へ変換できます。
 
 - 英語翻訳
