@@ -1,8 +1,5 @@
 # The-Prompt-BAR-Releases
 Official downloads and release notes for The Prompt BAR.
-
-# The Prompt BAR Downloads
-
 The Prompt BARの公式配布ページです。
 
 このリポジトリは完成版アプリの配布と更新案内のためのものです。
